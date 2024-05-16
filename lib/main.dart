@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:life_rescue/main.dart';
 import 'package:life_rescue/bottom_nav_screen.dart'; // Importe o arquivo da barra de navegação inferior
 
 void main() {
